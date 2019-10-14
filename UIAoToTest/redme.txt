@@ -1,0 +1,2 @@
+运行环境  eclipse+jdk1.8+maven
+使用技术  该模板使用 Java+selenium+testng+extentReport 实现页面UI自动化并生成extentReport报告和发送邮件

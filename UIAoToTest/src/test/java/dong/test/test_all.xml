@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="线下代理商自服务UI自动化">
+	<listeners>
+		<listener class-name="dong.com.spEnterprise.untils.ExtentTestNGIReporterListener" />
+	</listeners>
+	<test name="登录页面测试">
+		<classes>
+			<class name="dong.test.TestLoginSpEnterprise"></class>	
+		</classes> 
+	</test>
+ <!---
+<test name="发送测试报告邮件">
+		<classes>		
+			<class name="dong.test.TestSendReport"></class>
+		</classes>
+	</test>
+-->
+	</suite>
+
