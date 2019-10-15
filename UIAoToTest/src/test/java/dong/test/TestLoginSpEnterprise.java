@@ -30,9 +30,9 @@ public class TestLoginSpEnterprise {
 	@DataProvider
 	public Object[][] lg(){
 		return new Object[][] {
-//			    {"","admin","a111111"},
-//			    {"fan1","","a111111"},
-				{"fan1","admin","a111111","Y497209128"},
+//			    {"","eee","a11www1111"},
+//			    {"fawwn1","","eee"},
+				{"xxx","xxx","xxxxx","xxx"},
 				
 		};
 	}
