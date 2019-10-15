@@ -6,7 +6,8 @@
 	</listeners>
 	<test name="登录页面测试">
 		<classes>
-			<class name="dong.test.TestLoginSpEnterprise"></class>	
+			<class name="dong.test.TestLoginSpEnterprise"></class>
+			<class name="dong.test.TestOpenMerchant"></class>	
 		</classes> 
 	</test>
  <!---
