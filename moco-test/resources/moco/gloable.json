@@ -1,0 +1,9 @@
+[
+{
+"context":"/req",
+"include":"reqdemo.json"
+},
+{"context":"/template",
+"include":"template.json"}
+
+]

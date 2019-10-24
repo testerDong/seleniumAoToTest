@@ -1,0 +1,5 @@
+1、moco框架启动命令
+Java -jar ./moco-runner-0.11.0-standalone.jar http -p 6666 -c json配置文件.json
+moco  -g 加载全局配置
+Java -jar ./moco-runner-0.11.0-standalone.jar http -p 6666 -g gloable.json
+

@@ -1,0 +1,13 @@
+[
+	{
+		"description": "模拟一个forms格式的post请求,请求什么就响应什么",
+		"request": {
+			"uri": "/t1"
+		},
+		"response": {
+			"text": {
+				"template": "${req.forms['id']}"
+			}
+		}
+	}
+]

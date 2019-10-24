@@ -1,0 +1,116 @@
+[
+	{
+		"description": "模拟get请求",
+		"request": {
+			"uri": "/getreq",
+			"method": "get",
+			"queries": {
+				"name": "张三",
+				"age": "17"
+			}
+		},
+		"response": {
+			"headers": {
+				"Content-Type": "text/html;charset=gbk"
+			},
+			"text": "hello,张三"
+		}
+	},
+	{
+		"description": "模拟带参数的post请求",
+		"request": {
+			"uri": "/postreq",
+			"method": "post",
+			"forms": {
+				"id": "001",
+				"name": "lisi"
+			}
+		},
+		"response": {
+			"headers": {
+				"Content-Type": "text/html;charset=gbk"
+			},
+			"text": "李四,你好！"
+		}
+	},
+	
+		{
+		"description": "模拟不带参数的post请求",
+		"request": {
+			"uri": "/postreq1",
+			"method": "post"
+		},
+		"response": {
+			"headers": {
+				"Content-Type": "text/html;charset=gbk"
+			},
+			"text": "李四,你好！"
+		}
+	},
+	{
+		"description": "模拟cookies get请求",
+		"request": {
+			"uri": "/withcookie",
+			"method": "get",
+			"queries": {
+				"id": "1001",
+				"name": "cool"
+			},
+			"cookies": {
+				"name": "cookie"
+			}
+		},
+		"response": {
+			"headers": {
+				"Content-Type": "text/html;charset=gbk"
+			},
+			"text": "这是一个带cookie的get请求！"
+		}
+	},
+	{
+		"description": "模拟一个带cookie的post请求",
+		"request": {
+			"uri": "/withcookiepost",
+			"method": "post",
+			"headers": {
+				"Content-Type": "application/json;charset=utf-8"
+			},
+			"json": {
+				"funcode": "xxzz",
+				"reqDate": "20191018",
+				"reqTime": "125511"
+			},
+			"cookies": {
+				"id": "0011"
+			}
+		},
+		"response": {
+			"json": {
+				"retCode": "0000",
+				"retMessage": "查询成功"
+			}
+		}
+	},
+	
+		{
+		"description": "模拟一个请求参数是json格式的post请求",
+		"request": {
+			"uri": "/postJsonparms",
+			"method": "post",
+			"headers": {
+				"Content-Type": "application/json;charset=utf-8"
+			},
+			"json": {
+				"funcode": "xxzz",
+				"reqDate": "20191018",
+				"reqTime": "125511"
+			}
+		},
+		"response": {
+			"json": {
+				"retCode": "0000",
+				"retMessage": "查询成功"
+			}
+		}
+	}
+]
