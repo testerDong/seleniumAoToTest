@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="test">
+	<listeners>
+		<!--生成测试报告监听  -->
+		<listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter"></listener>
+		<listener class-name="dong.com.utils.TestCaseReport"></listener>
+		<!-- 失败用例截图监听 -->
+		<listener class-name="dong.com.utils.TestNGListenerScreen"></listener>
+		<listener class-name="dong.com.utils.TestNGListennerSendEmail"></listener>
+		</listeners>
+	<test name="登录页面测试">
+		<parameter name="browser" value="chrome"></parameter>
+		<parameter name="username" value="12345645"></parameter>
+		<parameter name="password" value="12345645"></parameter>
+		<parameter name="url"
+			value="https://www.imooc.com/user/newlogin"></parameter>
+		<classes>
+			<class name="dong.com.cases.TestLoginCase"></class>
+		</classes>
+	</test>
+
+</suite>
+

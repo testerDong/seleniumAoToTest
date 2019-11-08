@@ -1,0 +1,148 @@
+2019-11-07 17:48:58 - [ DEBUG ]  dong.com.ImocTest.TestLog4j.main(TestLog4j.java:20) main dong.com.ImocTest.TestLog4j - wewewewe 
+2019-11-07 17:49:52 - [ DEBUG ]  dong.com.ImocTest.TestLog4j.main(TestLog4j.java:20) main dong.com.ImocTest.TestLog4j - wewewewe 
+2019-11-08 09:47:09 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) TestNG dong.com.page.BasePage - 需要定位的元素是：username 
+2019-11-08 09:47:09 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) TestNG dong.com.page.BasePage - 定位到的元素是：id>userName 
+2019-11-08 09:47:09 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) TestNG dong.com.page.BasePage - 需要定位的元素是：password 
+2019-11-08 09:47:09 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) TestNG dong.com.page.BasePage - 定位到的元素是：name>pwd 
+2019-11-08 09:47:10 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) TestNG dong.com.page.BasePage - 需要定位的元素是：loginsubmit 
+2019-11-08 09:47:10 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) TestNG dong.com.page.BasePage - 定位到的元素是：xpath>//form[@id='userLoginForm']/div[5]/input 
+2019-11-08 10:59:17 - [ DEBUG ]  dong.com.cases.BaseCase.my_getDriver(BaseCase.java:26) main dong.com.cases.BaseCase - 打开 Chrome 浏览器 
+2019-11-08 10:59:23 - [ DEBUG ]  dong.com.cases.BaseCase.my_openUrl(BaseCase.java:39) main dong.com.cases.BaseCase - 打开网址：https://www.imooc.com/user/newlogin 
+2019-11-08 10:59:30 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginname 
+2019-11-08 10:59:30 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>js-own-name 
+2019-11-08 10:59:30 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：password 
+2019-11-08 10:59:30 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：name>password 
+2019-11-08 10:59:30 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginbutton 
+2019-11-08 10:59:30 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>xa-login 
+2019-11-08 14:36:47 - [ DEBUG ]  dong.com.cases.BaseCase.my_getDriver(BaseCase.java:26) main dong.com.cases.BaseCase - 打开 Chrome 浏览器 
+2019-11-08 14:36:50 - [ DEBUG ]  dong.com.cases.BaseCase.my_openUrl(BaseCase.java:39) main dong.com.cases.BaseCase - 打开网址：https://www.imooc.com/user/newlogin 
+2019-11-08 14:36:57 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginname 
+2019-11-08 14:36:57 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>js-own-name 
+2019-11-08 14:36:57 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：password 
+2019-11-08 14:36:57 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：name>password 
+2019-11-08 14:36:57 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginbutton 
+2019-11-08 14:36:57 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>xa-login 
+2019-11-08 14:47:23 - [ DEBUG ]  dong.com.cases.BaseCase.my_getDriver(BaseCase.java:26) main dong.com.cases.BaseCase - 打开 Chrome 浏览器 
+2019-11-08 14:47:30 - [ DEBUG ]  dong.com.cases.BaseCase.my_openUrl(BaseCase.java:39) main dong.com.cases.BaseCase - 打开网址：https://www.imooc.com/user/newlogin 
+2019-11-08 14:47:37 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginname 
+2019-11-08 14:47:37 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>js-own-name 
+2019-11-08 14:47:37 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：password 
+2019-11-08 14:47:37 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：name>password 
+2019-11-08 14:47:37 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginbutton 
+2019-11-08 14:47:37 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>xa-login 
+2019-11-08 15:14:41 - [ DEBUG ]  dong.com.cases.BaseCase.my_getDriver(BaseCase.java:26) main dong.com.cases.BaseCase - 打开 Chrome 浏览器 
+2019-11-08 15:14:42 - [ DEBUG ]  dong.com.cases.BaseCase.my_openUrl(BaseCase.java:39) main dong.com.cases.BaseCase - 打开网址：https://www.imooc.com/user/newlogin 
+2019-11-08 15:14:50 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginname 
+2019-11-08 15:14:50 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>js-own-name 
+2019-11-08 15:14:50 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：password 
+2019-11-08 15:14:50 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：name>password 
+2019-11-08 15:14:50 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginbutton 
+2019-11-08 15:14:50 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>xa-login 
+2019-11-08 15:14:50 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：myphoto 
+2019-11-08 15:14:50 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：id>header-avator 
+2019-11-08 15:22:46 - [ DEBUG ]  dong.com.cases.BaseCase.my_getDriver(BaseCase.java:26) main dong.com.cases.BaseCase - 打开 Chrome 浏览器 
+2019-11-08 15:22:52 - [ DEBUG ]  dong.com.cases.BaseCase.my_openUrl(BaseCase.java:39) main dong.com.cases.BaseCase - 打开网址：https://www.imooc.com/user/newlogin 
+2019-11-08 15:22:55 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginname 
+2019-11-08 15:22:55 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>js-own-name 
+2019-11-08 15:22:55 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：password 
+2019-11-08 15:22:55 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：name>password 
+2019-11-08 15:22:55 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginbutton 
+2019-11-08 15:22:55 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>xa-login 
+2019-11-08 15:22:55 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：myphoto 
+2019-11-08 15:22:55 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：id>header-avator 
+2019-11-08 15:33:32 - [ DEBUG ]  dong.com.cases.BaseCase.my_getDriver(BaseCase.java:26) main dong.com.cases.BaseCase - 打开 Chrome 浏览器 
+2019-11-08 15:33:38 - [ DEBUG ]  dong.com.cases.BaseCase.my_openUrl(BaseCase.java:39) main dong.com.cases.BaseCase - 打开网址：https://www.imooc.com/user/newlogin 
+2019-11-08 15:33:41 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginname 
+2019-11-08 15:33:41 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>js-own-name 
+2019-11-08 15:33:41 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：password 
+2019-11-08 15:33:41 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：name>password 
+2019-11-08 15:33:41 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginbutton 
+2019-11-08 15:33:41 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>xa-login 
+2019-11-08 15:33:41 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：myphoto 
+2019-11-08 15:33:41 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：id>header-avator 
+2019-11-08 15:38:06 - [ DEBUG ]  dong.com.cases.BaseCase.my_getDriver(BaseCase.java:26) main dong.com.cases.BaseCase - 打开 Chrome 浏览器 
+2019-11-08 15:38:11 - [ DEBUG ]  dong.com.cases.BaseCase.my_openUrl(BaseCase.java:39) main dong.com.cases.BaseCase - 打开网址：https://www.imooc.com/user/newlogin 
+2019-11-08 15:38:14 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginname 
+2019-11-08 15:38:14 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>js-own-name 
+2019-11-08 15:38:14 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：password 
+2019-11-08 15:38:14 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：name>password 
+2019-11-08 15:38:14 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginbutton 
+2019-11-08 15:38:14 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>xa-login 
+2019-11-08 15:38:14 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：myphoto 
+2019-11-08 15:38:14 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：id>header-avator 
+2019-11-08 15:40:16 - [ DEBUG ]  dong.com.cases.BaseCase.my_getDriver(BaseCase.java:26) main dong.com.cases.BaseCase - 打开 Chrome 浏览器 
+2019-11-08 15:40:21 - [ DEBUG ]  dong.com.cases.BaseCase.my_openUrl(BaseCase.java:39) main dong.com.cases.BaseCase - 打开网址：https://www.imooc.com/user/newlogin 
+2019-11-08 15:40:24 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginname 
+2019-11-08 15:40:24 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>js-own-name 
+2019-11-08 15:40:24 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：password 
+2019-11-08 15:40:24 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：name>password 
+2019-11-08 15:40:24 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginbutton 
+2019-11-08 15:40:24 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>xa-login 
+2019-11-08 15:40:24 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：myphoto 
+2019-11-08 15:40:24 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：id>header-avator 
+2019-11-08 15:41:16 - [ DEBUG ]  dong.com.cases.BaseCase.my_getDriver(BaseCase.java:26) main dong.com.cases.BaseCase - 打开 Chrome 浏览器 
+2019-11-08 15:41:21 - [ DEBUG ]  dong.com.cases.BaseCase.my_openUrl(BaseCase.java:39) main dong.com.cases.BaseCase - 打开网址：https://www.imooc.com/user/newlogin 
+2019-11-08 15:41:24 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginname 
+2019-11-08 15:41:24 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>js-own-name 
+2019-11-08 15:41:24 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：password 
+2019-11-08 15:41:24 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：name>password 
+2019-11-08 15:41:24 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginbutton 
+2019-11-08 15:41:24 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>xa-login 
+2019-11-08 15:41:24 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：myphoto 
+2019-11-08 15:41:24 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：id>header-avator 
+2019-11-08 16:56:41 - [ DEBUG ]  dong.com.cases.BaseCase.my_getDriver(BaseCase.java:26) main dong.com.cases.BaseCase - 打开 Chrome 浏览器 
+2019-11-08 16:56:46 - [ DEBUG ]  dong.com.cases.BaseCase.my_openUrl(BaseCase.java:39) main dong.com.cases.BaseCase - 打开网址：https://www.imooc.com/user/newlogin 
+2019-11-08 16:56:49 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginname 
+2019-11-08 16:56:49 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>js-own-name 
+2019-11-08 16:56:50 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：password 
+2019-11-08 16:56:50 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：name>password 
+2019-11-08 16:56:50 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginbutton 
+2019-11-08 16:56:50 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>xa-login 
+2019-11-08 16:56:50 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：myphoto 
+2019-11-08 16:56:50 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：id>header-avator 
+2019-11-08 16:58:45 - [ DEBUG ]  dong.com.cases.BaseCase.my_getDriver(BaseCase.java:26) main dong.com.cases.BaseCase - 打开 Chrome 浏览器 
+2019-11-08 16:58:50 - [ DEBUG ]  dong.com.cases.BaseCase.my_openUrl(BaseCase.java:39) main dong.com.cases.BaseCase - 打开网址：https://www.imooc.com/user/newlogin 
+2019-11-08 16:58:53 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginname 
+2019-11-08 16:58:53 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>js-own-name 
+2019-11-08 16:58:53 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：password 
+2019-11-08 16:58:53 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：name>password 
+2019-11-08 16:58:53 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginbutton 
+2019-11-08 16:58:53 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>xa-login 
+2019-11-08 16:58:53 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：myphoto 
+2019-11-08 16:58:53 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：id>header-avator 
+2019-11-08 17:40:00 - [ DEBUG ]  dong.com.utils.TestNGListennerSendEmail.onExecutionStart(TestNGListennerSendEmail.java:24) main dong.com.utils.TestNGListennerSendEmail - 开始执行用例 
+2019-11-08 17:40:06 - [ DEBUG ]  dong.com.cases.BaseCase.my_getDriver(BaseCase.java:26) main dong.com.cases.BaseCase - 打开 Chrome 浏览器 
+2019-11-08 17:40:12 - [ DEBUG ]  dong.com.cases.BaseCase.my_openUrl(BaseCase.java:39) main dong.com.cases.BaseCase - 打开网址：https://www.imooc.com/user/newlogin 
+2019-11-08 17:40:15 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginname 
+2019-11-08 17:40:15 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>js-own-name 
+2019-11-08 17:40:15 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：password 
+2019-11-08 17:40:15 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：name>password 
+2019-11-08 17:40:15 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginbutton 
+2019-11-08 17:40:15 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>xa-login 
+2019-11-08 17:40:15 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：myphoto 
+2019-11-08 17:40:15 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：id>header-avator 
+2019-11-08 17:40:20 - [ DEBUG ]  dong.com.utils.TestNGListennerSendEmail.onExecutionFinish(TestNGListennerSendEmail.java:29) main dong.com.utils.TestNGListennerSendEmail - 发送测试报告 
+2019-11-08 17:44:21 - [ DEBUG ]  dong.com.utils.TestNGListennerSendEmail.onExecutionStart(TestNGListennerSendEmail.java:24) main dong.com.utils.TestNGListennerSendEmail - 开始执行用例 
+2019-11-08 17:44:27 - [ DEBUG ]  dong.com.cases.BaseCase.my_getDriver(BaseCase.java:26) main dong.com.cases.BaseCase - 打开 Chrome 浏览器 
+2019-11-08 17:44:32 - [ DEBUG ]  dong.com.cases.BaseCase.my_openUrl(BaseCase.java:39) main dong.com.cases.BaseCase - 打开网址：https://www.imooc.com/user/newlogin 
+2019-11-08 17:44:35 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginname 
+2019-11-08 17:44:35 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>js-own-name 
+2019-11-08 17:44:36 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：password 
+2019-11-08 17:44:36 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：name>password 
+2019-11-08 17:44:36 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginbutton 
+2019-11-08 17:44:36 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>xa-login 
+2019-11-08 17:44:36 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：myphoto 
+2019-11-08 17:44:36 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：id>header-avator 
+2019-11-08 17:44:41 - [ DEBUG ]  dong.com.utils.TestNGListennerSendEmail.onExecutionFinish(TestNGListennerSendEmail.java:29) main dong.com.utils.TestNGListennerSendEmail - 发送测试报告 
+2019-11-08 18:19:23 - [ DEBUG ]  dong.com.utils.TestNGListennerSendEmail.onExecutionStart(TestNGListennerSendEmail.java:29) main dong.com.utils.TestNGListennerSendEmail - 开始执行用例 
+2019-11-08 18:19:29 - [ DEBUG ]  dong.com.cases.BaseCase.my_getDriver(BaseCase.java:26) main dong.com.cases.BaseCase - 打开 Chrome 浏览器 
+2019-11-08 18:19:34 - [ DEBUG ]  dong.com.cases.BaseCase.my_openUrl(BaseCase.java:39) main dong.com.cases.BaseCase - 打开网址：https://www.imooc.com/user/newlogin 
+2019-11-08 18:19:37 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginname 
+2019-11-08 18:19:37 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>js-own-name 
+2019-11-08 18:19:38 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：password 
+2019-11-08 18:19:38 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：name>password 
+2019-11-08 18:19:38 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：loginbutton 
+2019-11-08 18:19:38 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：className>xa-login 
+2019-11-08 18:19:38 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:57) main dong.com.page.BasePage - 需要定位的元素是：myphoto 
+2019-11-08 18:19:38 - [ DEBUG ]  dong.com.page.BasePage.getLocation(BasePage.java:59) main dong.com.page.BasePage - 定位到的元素是：id>header-avator 
+2019-11-08 18:19:43 - [ DEBUG ]  dong.com.utils.TestNGListennerSendEmail.onExecutionFinish(TestNGListennerSendEmail.java:33) main dong.com.utils.TestNGListennerSendEmail - 发送测试报告 
